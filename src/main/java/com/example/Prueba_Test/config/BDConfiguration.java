@@ -1,0 +1,9 @@
+package com.example.Prueba_Test.config;
+
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.context.annotation.Configuration;
+
+@EnableConfigurationProperties(BDConfigurationProperties.class)
+@Configuration
+public class BDConfiguration {
+}
