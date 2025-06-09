@@ -4,7 +4,7 @@ public class SoyUnaClaseDePrueba {
 
     String ejemplo2="Soyl eempo 2";
 
-    String nuevoelemento="petete";
+    String nuevoelemento="peteteeeeeeeeeee";
 
     int a;
 
