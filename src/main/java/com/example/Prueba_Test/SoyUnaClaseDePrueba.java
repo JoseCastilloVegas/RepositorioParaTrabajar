@@ -8,5 +8,5 @@ public class SoyUnaClaseDePrueba {
 
     int a;
 
-    int b;
+    int c;
 }
