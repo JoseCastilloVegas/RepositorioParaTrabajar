@@ -8,5 +8,9 @@ public class SoyUnaClaseDePrueba {
 
     int a;
 
-    int c;
+    int cucufloro;
+
+    int perraco;
+
+
 }
