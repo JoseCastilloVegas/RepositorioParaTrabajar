@@ -7,4 +7,6 @@ public class SoyUnaClaseDePrueba {
     String nuevoelemento="petete";
 
     int a;
+
+    int b;
 }
